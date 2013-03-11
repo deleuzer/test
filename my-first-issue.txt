@@ -4,3 +4,4 @@ But the first try did not work.
 More testing for issue 1
 More testing for issue 1
 More testing for issue 1
+Testing update-hook for issue 1
